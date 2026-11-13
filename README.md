@@ -78,6 +78,8 @@ when "this" touches "Coin1":
 
 ## Local Development
 
+On Windows, you can double-click `start-openscratch.bat` (installs dependencies on first run and opens the Studio in your browser), or run manually:
+
 ```bash
 # 1. Install dependencies
 npm install
